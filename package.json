@@ -1,0 +1,12 @@
+{
+  "name": "workshop-tdd",
+  "version": "1.0.0",
+  "description": "Oficina Quero Ser Dev para iniciantes em programação",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
