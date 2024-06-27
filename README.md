@@ -27,7 +27,7 @@ ___Fonte do guia para usar templates do github: FAQ Desafio Rocketseat___
 
 ✓		Farei a demonstração dos exemplos de soma e fizzbuzz
 
-✓		Teremos um tempo para formar pares e resolver juntes o exercício de Queue
+✓		Teremos um tempo para você responder e enviar o link da sua avaliação
 
 ## `Materiais`
 
