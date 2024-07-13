@@ -25,7 +25,7 @@ ___Fonte do guia para usar templates do github: FAQ Desafio Rocketseat___
 
 ✓   Farei a apresentação inicial dos conceitos
 
-✓		Farei a demonstração dos exemplos de soma e fizzbuzz
+✓		Farei a demonstração dos exemplos de soma e um metodo da fila
 
 ✓		Teremos um tempo para você responder e enviar o link da sua avaliação
 
@@ -36,15 +36,7 @@ ___Fonte do guia para usar templates do github: FAQ Desafio Rocketseat___
 
 ## 💻 Demonstração
 ### Soma
-
 - Recebe dois números inteiros e soma
-
-### FizzBuzz
-
-- Recebe um inteiro
-- Se for múltiplo de 3 retorna 'Fizz'
-- Se for múltiplo de 5 retorna 'Buzz'
-- Se for múltimo de 3 e 5 retorna 'FizzBuzz'
 
 ### Calculadora
 
